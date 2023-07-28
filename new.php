@@ -187,6 +187,15 @@ $sql_boding="SELECT * FROM palces WHERE iduser=$uid";
                                           </div>
                                         </label>
                                       </div>
+					<div class="img-element">
+                                        <input type="file" id="file-4" accept="image/*">
+                                        <label for="file-4" id="file-4-preview">
+                                          <img src="https://bit.ly/3ubuq5o" alt="">
+                                          <div>
+                                            <span>+</span>
+                                          </div>
+                                        </label>
+                                      </div>
                                     </div>
                                 </div>
                                   <script>
@@ -205,7 +214,6 @@ $sql_boding="SELECT * FROM palces WHERE iduser=$uid";
                                     previewBeforeUpload("file-2");
                                     previewBeforeUpload("file-3");
                                     previewBeforeUpload("file-4");
-                                    previewBeforeUpload("file-5");
                                   </script>
                                     
                         <div class="buttona">
