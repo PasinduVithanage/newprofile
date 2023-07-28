@@ -187,24 +187,6 @@ $sql_boding="SELECT * FROM palces WHERE iduser=$uid";
                                           </div>
                                         </label>
                                       </div>
-                                      <div class="img-element">
-                                        <input type="file" id="file-4" accept="image/*">
-                                        <label for="file-4" id="file-4-preview">
-                                          <img src="https://bit.ly/3ubuq5o" alt="">
-                                          <div>
-                                            <span>+</span>
-                                          </div>
-                                        </label>
-                                      </div>
-                                      <div class="img-element">
-                                        <input type="file" id="file-5" accept="image/*">
-                                        <label for="file-5" id="file-5-preview">
-                                          <img src="https://bit.ly/3ubuq5o" alt="">
-                                          <div>
-                                            <span>+</span>
-                                          </div>
-                                        </label>
-                                      </div>
                                     </div>
                                 </div>
                                   <script>
